@@ -7,11 +7,11 @@
       "required":  true
     },
     "LINE_BOT_CHANNEL_TOKEN": {
-      "description": "LINE bot Channel access token from the Channel Console",
+      "description": "Renikv7AVXUcdHSeAlAISUTMMIi/pnGSDccD7jWL7vMWOUE75iBF/6rPQNuj3iWjoWfCTAIncsIdwzFq/Oy9RC5shrlPbgOR271tDSVRDbnmHzGA8CyS4pLBEuHjSzaKSxiIwv5ULvfNuajDzTa0CQdB04t89/1O/w1cDnyilFU=",
       "required":  true
     },
     "LINE_BOT_CHANNEL_SECRET": {
-      "description": "LINE bot Channel secret from the Channel Console",
+      "description": "4f0930a748a24428e8b089842d6f5c6d",
       "required":  true
     }
   }
